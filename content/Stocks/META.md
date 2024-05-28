@@ -1,28 +1,32 @@
 ---
-title: AMZN
+title: META
 aliases:
-    - $AMZN
-    - AMZN
+    - $META
+    - META
 ---
 
 Mentioned with:
+[[WMT]]
+[[JPM]]
+[[SBUX]]
+[[TGT]]
 [[WBD]]
 [[KBBA]]
+[[F]]
+[[COST]]
 [[GOOGL]]
 [[CMCSA]]
-[[GOOG]]
-[[NVDA]]
 [[PARA]]
 [[VZ]]
 [[KWEB]]
+[[XLU]]
 [[IMAX]]
-[[GME]]
 [[AMC]]
 [[DIS]]
 [[AAPL]]
 [[SNE]]
-[[MSFT]]
 [[NFLX]]
-[[META]]
 [[T]]
+[[AMZN]]
+[[GM]]
 

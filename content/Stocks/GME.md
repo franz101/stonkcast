@@ -1,14 +1,14 @@
 ---
-title: GOOG
+title: GME
 aliases:
-    - $GOOG
-    - GOOG
+    - $GME
+    - GME
 ---
 
 Mentioned with:
 [[MSFT]]
 [[GOOGL]]
-[[GME]]
+[[GOOG]]
 [[NVDA]]
 [[AAPL]]
 [[AMZN]]

@@ -1,13 +1,15 @@
 ---
-title: Microsoft
-alias:
-    - MSFT
-    - Microsoft
+title: MSFT
+aliases:
     - $MSFT
-created: 2022-01-01
-date: 2022-01-01
-
+    - MSFT
 ---
 
+Mentioned with:
+[[GOOGL]]
+[[GOOG]]
+[[GME]]
+[[NVDA]]
+[[AAPL]]
+[[AMZN]]
 
-date: 2023-05-28

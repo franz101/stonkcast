@@ -1,28 +1,33 @@
 ---
-title: AMZN
+title: NFLX
 aliases:
-    - $AMZN
-    - AMZN
+    - $NFLX
+    - NFLX
 ---
 
 Mentioned with:
+[[WMT]]
+[[JPM]]
+[[SBUX]]
+[[TGT]]
 [[WBD]]
 [[KBBA]]
+[[F]]
+[[COST]]
 [[GOOGL]]
 [[CMCSA]]
-[[GOOG]]
-[[NVDA]]
 [[PARA]]
 [[VZ]]
+[[ORCL]]
 [[KWEB]]
+[[XLU]]
 [[IMAX]]
-[[GME]]
 [[AMC]]
 [[DIS]]
 [[AAPL]]
 [[SNE]]
-[[MSFT]]
-[[NFLX]]
 [[META]]
 [[T]]
+[[AMZN]]
+[[GM]]
 

@@ -1,14 +1,13 @@
 ---
-title: AMZN
+title: GOOGL
 aliases:
-    - $AMZN
-    - AMZN
+    - $GOOGL
+    - GOOGL
 ---
 
 Mentioned with:
 [[WBD]]
 [[KBBA]]
-[[GOOGL]]
 [[CMCSA]]
 [[GOOG]]
 [[NVDA]]
@@ -25,4 +24,5 @@ Mentioned with:
 [[NFLX]]
 [[META]]
 [[T]]
+[[AMZN]]
 
