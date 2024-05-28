@@ -5,4 +5,4 @@ tags:
 ---
 
 
-Foo bar
+Talks about [[MSFT]]

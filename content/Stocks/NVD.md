@@ -1,6 +1,6 @@
 ---
 title: NVIDIA
-tags:
+alias:
     - NVDA
     - NVIDIA
     - $NVDA

@@ -1,6 +1,6 @@
 ---
 title: Alphabet
-tags:
+alias:
     - Google
     - Alphabet
     - GOOG

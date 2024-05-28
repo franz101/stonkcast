@@ -1,6 +1,6 @@
 ---
 title: Amazon
-tags:
+alias:
     - AMZN
     - Amazon
     - $AMZN
