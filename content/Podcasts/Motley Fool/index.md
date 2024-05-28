@@ -4,5 +4,4 @@ tags:
     - Podcast
 ---
 
-
 Talks about [[MSFT]]

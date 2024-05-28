@@ -14,8 +14,8 @@ market_relevance: 4
 The podcast talks about the chip business, which is cyclical, and the impact of ASML's earnings.  The podcast also discusses the airline industry, specifically United Airlines' latest earnings.  Finally, the podcast discusses the commercial real estate market and the potential for distress and defaults.
 
 Ticker Predictions:
-[[$ASML]]: Hold ⏸️
-[[$UAL]]: Buy 🔺
+[[ASML]]: Hold ⏸️
+[[UAL]]: Buy 🔺
 
 
 *Market Relevance*: 4

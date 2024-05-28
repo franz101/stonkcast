@@ -1,5 +1,5 @@
 ---
-title: Welcome to our podcasts
+title: Podcasts
 ---
 
 Currently indexed:
